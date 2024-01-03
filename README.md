@@ -6,9 +6,9 @@
 
 <img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-![github stats](https://github-readme-stats.vercel.app/api?username=BailleysCoders&show_icons=true&theme=radical)
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=HAFizh-15&layout=compact&theme=radical)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=BailleysCoders&repo=TERMOS-WABOT&theme=radical)
+![github stats](https://github-readme-stats.vercel.app/api?username=HAFizh-script&show_icons=true&theme=radical)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Hafizh&layout=compact&theme=radical)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=HAFizh-script&repo=TERMOS-WABOT&theme=radical)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314iqaa5wlnytjblf2yfa4es5aly&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=314iqaa5wlnytjblf2yfa4es5aly&redirect=true)
 
 
